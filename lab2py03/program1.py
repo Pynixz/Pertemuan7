@@ -1,27 +1,19 @@
-# Modal awal
-modal_awal = 100000000  # 100 juta
+modal_awal = 100_000_000  # Modal awal 100 juta
+laba = [0, 0, 0, 0, 0, 0, 0, 0]  # Inisialisasi laba tiap bulan
 
-# Inisialisasi total keuntungan
-total_keuntungan = 0
+# Bulan ke-3
+laba[2] = modal_awal * 0.01
 
-# Bulan 1 dan 2
-total_keuntungan += 0  # Tidak ada laba pada bulan 1
-total_keuntungan += 0  # Tidak ada laba pada bulan 2
+# Bulan ke-5
+laba[4] = modal_awal * 0.05
 
-# Bulan 3
-total_keuntungan += modal_awal * 0.01  # Laba 1% dari modal awal
+# Bulan ke-8
+laba[7] = modal_awal * 0.03
 
-# Bulan 4
-total_keuntungan += 0  # Tidak ada peningkatan laba
+# Menghitung total laba
+total_laba = sum(laba)
 
-# Bulan 5
-total_keuntungan += modal_awal * 0.05  # Laba 5% dari modal awal
-
-# Bulan 6 dan 7
-total_keuntungan += 0  # Tidak ada peningkatan laba pada bulan 6 dan 7
-
-# Bulan 8
-total_keuntungan += modal_awal * 0.03  # Laba 3% dari modal awal
-
-# Total keuntungan selama 8 bulan
-print("Total Keuntungan selama 8 bulan adalah: Rp", total_keuntungan)
+# Menampilkan laba tiap bulan dan total laba
+for bulan, laba_bulanan in enumerate(laba):
+    print(f'laba bulan ke-{bulan + 1} sebesar: {laba_bulanan:.1f}')
+print(f'Total Laba adalah: {total_laba:.1f}')
