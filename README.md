@@ -147,8 +147,8 @@ git clone [url]
 
 
 
-## Berikut bukti pengerjaan-nya
--
+-  ## Berikut bukti pengerjaan-nya
+
   ![Screenshot 2023-11-02 232204](https://github.com/Pynixz/Pertemuan7/assets/147568964/8ba3fd24-05bc-47eb-970a-e79dd667183a)
 -  
   ![Screenshot 2023-11-02 232234](https://github.com/Pynixz/Pertemuan7/assets/147568964/20b2a3b6-5eab-4acb-9769-fdcc309add1f)
