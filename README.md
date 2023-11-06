@@ -156,5 +156,5 @@ git clone [url]
   ![Screenshot 2023-11-02 232408](https://github.com/Pynixz/Pertemuan7/assets/147568964/f85d69b5-6263-41d5-8b1a-cdc95b89c5e7)  
   ![Screenshot 2023-11-02 232429](https://github.com/Pynixz/Pertemuan7/assets/147568964/95c99a03-5ee7-476d-8ded-4617984456f2)
 - ```Lab3 Perulangan```
+  ![Screenshot 2023-11-02 232448](https://github.com/Pynixz/Pertemuan7/assets/147568964/491baf1f-ac7d-44a3-a082-bcce702e286e)
   ![Screenshot 2023-11-06 150653](https://github.com/Pynixz/Pertemuan7/assets/147568964/c83268e6-4509-45a3-b736-2101ce0a4aed)
-  ![Screenshot 2023-11-02 232513](https://github.com/Pynixz/Pertemuan7/assets/147568964/7911171c-9a02-46fc-a75b-98c03894aa53)
