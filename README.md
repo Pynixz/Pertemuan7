@@ -145,24 +145,16 @@ git clone [url]
 ```
 
 
-
-
 -  ## Berikut bukti pengerjaan-nya
-- ``` Praktikum2 (modul 2)```
+- ``` Praktikum2 (modul 2)(lab2py02)```
   ![Screenshot 2023-11-02 232204](https://github.com/Pynixz/Pertemuan7/assets/147568964/8ba3fd24-05bc-47eb-970a-e79dd667183a)
-- ``` Praktikum3 (modul 3)```
-  ![Screenshot 2023-11-02 232234](https://github.com/Pynixz/Pertemuan7/assets/147568964/20b2a3b6-5eab-4acb-9769-fdcc309add1f)
--  
-  ![Screenshot 2023-11-02 232317](https://github.com/Pynixz/Pertemuan7/assets/147568964/65c83d49-ed7f-45b8-b7f1-2e23398c2017)
--  
+- ``` Praktikum3 (modul 3)(lab2py03)```
+  ![Screenshot 2023-11-02 232234](https://github.com/Pynixz/Pertemuan7/assets/147568964/20b2a3b6-5eab-4acb-9769-fdcc309add1f) 
+  ![Screenshot 2023-11-02 232317](https://github.com/Pynixz/Pertemuan7/assets/147568964/65c83d49-ed7f-45b8-b7f1-2e23398c2017) 
   ![Screenshot 2023-11-02 232332](https://github.com/Pynixz/Pertemuan7/assets/147568964/882c0d3f-7126-4689-aae0-18d65934ed72)
 -  ```Lab2 Struktur kondisi```
-  ![Screenshot 2023-11-02 232408](https://github.com/Pynixz/Pertemuan7/assets/147568964/f85d69b5-6263-41d5-8b1a-cdc95b89c5e7)
--  
+  ![Screenshot 2023-11-02 232408](https://github.com/Pynixz/Pertemuan7/assets/147568964/f85d69b5-6263-41d5-8b1a-cdc95b89c5e7)  
   ![Screenshot 2023-11-02 232429](https://github.com/Pynixz/Pertemuan7/assets/147568964/95c99a03-5ee7-476d-8ded-4617984456f2)
 - ```Lab3 Perulangan```
   ![Screenshot 2023-11-06 150653](https://github.com/Pynixz/Pertemuan7/assets/147568964/c83268e6-4509-45a3-b736-2101ce0a4aed)
--  
   ![Screenshot 2023-11-02 232513](https://github.com/Pynixz/Pertemuan7/assets/147568964/7911171c-9a02-46fc-a75b-98c03894aa53)
-
-
